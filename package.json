@@ -1,0 +1,23 @@
+{
+  "name": "fredo",
+  "version": "1.0.0",
+  "description": "An api",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main"
+  },
+  "keywords": [
+    "properties",
+    "rent"
+  ],
+  "author": "Gideon Sainyeye & Christine Obedi\u001b[D\u001b[Da\u001b[3~\u001bd\u001b[Did",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.2",
+    "sequelize": "^6.37.3",
+    "sql": "^0.78.0"
+  }
+}
